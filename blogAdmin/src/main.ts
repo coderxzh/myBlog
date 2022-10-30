@@ -1,0 +1,10 @@
+import { createApp } from "vue";
+import { createPinia } from "pinia";
+import route from "./route";
+import App from "./App.vue";
+import "./assets/iconfont/iconfont.css";
+const app = createApp(App);
+const store = createPinia();
+app.use(route);
+app.use(store);
+app.mount("#app");

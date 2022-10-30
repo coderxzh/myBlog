@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\blog"
+		},
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\blogBackEnd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blog"
+	}
+}
